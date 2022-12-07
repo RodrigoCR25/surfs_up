@@ -7,9 +7,7 @@ Now mentioning the temperature in Hawaii, it will not be extremely low, which me
 
 ![image](https://github.com/RodrigoCR25/surfs_up/blob/main/june.png)
 
-
-![image]
-
+![image](https://github.com/RodrigoCR25/surfs_up/blob/main/december.png)
 
 As part of this analysis and taking into account that these dates are off for most people, we would like to know from a marketing perspective if it is possible to develop surf events, so that hotels, sports stores and local businesses have more income. thanks to the development of a surf event.
 As part of a second statistics, for this type of ideas it would be of great help to know the capacity of the city to receive such a demand and to be able to prepare investment projects for the growth in demand.
