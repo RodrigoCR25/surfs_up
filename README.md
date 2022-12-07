@@ -5,7 +5,7 @@ In the elaboration of this challenge, it was possible to visualize the statistic
 It is worth mentioning that the results obtained between June and December regarding the average temperature are not very variable, what we mean with this comment is that during these months it is expected to have a similar temperature throughout the year.
 Now mentioning the temperature in Hawaii, it will not be extremely low, which means that during the month of December we can expect tourists to come to enjoy perfect waves to be able to do surfing.
 
-![image] (https://github.com/RodrigoCR25/surfs_up/blob/main/june.png)
+![image](https://github.com/RodrigoCR25/surfs_up/blob/main/june.png)
 
 
 ![image]
